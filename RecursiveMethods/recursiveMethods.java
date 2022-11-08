@@ -453,13 +453,5 @@
      }
      // ======================================================================
 
-     public static void main(String[] args) {
-         recursiveMethods tester = new recursiveMethods();
-
-
-         System.out.println(tester.count11("abc11x11x11"));
-         System.out.println(tester.count11("1111"));
-         System.out.println(tester.count11("11abc11"));
-
-     }
+     
  }
