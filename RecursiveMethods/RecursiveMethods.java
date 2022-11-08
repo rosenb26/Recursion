@@ -1,4 +1,4 @@
- public class recursiveMethods {
+ public class RecursiveMethods {
 
      /*The following four methods are exercises from Koffman
        page 253.*/
